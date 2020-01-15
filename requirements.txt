@@ -1,0 +1,8 @@
+sklearn
+jupyter
+tensorflow==1.15
+pandas
+numpy
+matplotlib
+shap
+xgboost
