@@ -6,3 +6,6 @@ numpy
 matplotlib
 shap
 xgboost
+skater
+eli5
+treeinterpreter
